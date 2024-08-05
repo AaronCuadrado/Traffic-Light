@@ -39,6 +39,9 @@ body{
 .yellow {
     background-color: rgb(165, 165, 0);
 }
+.purple {
+    background-color: rgb(69, 0, 134);
+}
 
 .rojo {
 box-shadow: 0 0 20px 15px red;
@@ -53,9 +56,9 @@ background-color: rgb(255, 0, 0);
     background-color: rgb(0, 255, 0);
 }
 
-.morado{
-    box-shadow: 0 0 20px 15px rgb(183, 0, 255);
-    background-color: rgb(204, 0, 255);
+.moradito{
+    box-shadow: 0 0 20px 15px rgb(140, 0, 255);
+    background-color: rgb(132, 0, 255);
 }
 .pulsador{
     display: block;
